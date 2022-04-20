@@ -1,0 +1,30 @@
+				Sistem penerimaan siswa baru
+
+
+NAMA KELOMPOK:
+
+Yeni Adelia_2007051005
+Bettaria_2007051029
+Muhammad Ridho Restu_2007051047
+
+
+Kontribusi
+
+- Yeni Adelia : 
+	- daftar_akun.php
+	- daftar_admin.php
+	- proses_simpan_pendaftaran
+	- koneksi.php
+	- psb.sql (databases)
+
+- Bettaria :
+	- logout.php
+	- login.php
+	- idex.php
+	- sukses_registrasi.php
+
+- Muhammad Ridho Restu:
+	- daftar_syarat.php
+	- daftar_siswa_baru.php
+	- daftar_data_orangtua.php
+	- css (boostrap)
